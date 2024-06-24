@@ -1,0 +1,11 @@
+.nextflow*
+.cache
+.config
+work*
+dataset
+result
+results
+target
+.nv
+*.pdf
+*.html
